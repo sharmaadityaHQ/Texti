@@ -1,7 +1,6 @@
+echo "God is processing your request..."
 output=$(node readText.js)
-echo "$output" > temp.txt
-input="./temp.txt"
-while IFS= read -r line
-do
-  echo "$line"
-done < "$input"
+echo "Your API is being generated..."
+cd app/
+npm run strapi -- generate:api $output
+npm run develop
