@@ -6,4 +6,3 @@ sleep 5
 cd app/
 npm run strapi -- generate:api $output
 npm run develop
-firefox http://localhost:1337/documentation/v1.0.0#/
