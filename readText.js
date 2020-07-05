@@ -14,5 +14,4 @@ for (let i = 0; i < text.length; i++) {
   }
 }
 
-console.log(name)
-console.log(attributes)
+console.log(name + " " + attributes.toString().replace(/,/g,' '))
