@@ -1,0 +1,4 @@
+Hello god! I don't know how to code. Please make me a product API with the following attributes.
+name:string
+description:text
+price:integer
