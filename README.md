@@ -18,10 +18,12 @@ Please follow the below steps to use Texti to generate API's.
 
 Example:
 
-Make a product API with the follwing fields.
-name:string
-description:text
-price:integer
+Make a product API with the follwing fields.  
+
+name:string  
+description:text  
+price:integer  
+quantity:integer
 
 - Now just run `magic` in your terminal. `magic` is an alias to `generateApi.sh` script.
 
