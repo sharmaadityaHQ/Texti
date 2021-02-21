@@ -1,7 +1,7 @@
 # Texti
 Make both REST and GraphQL API's in a minute without coding.
 
-<iframe src="https://player.vimeo.com/video/515008150" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+Demo video- https://vimeo.com/515008150
 
 ## Prerequisites
 
