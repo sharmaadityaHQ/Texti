@@ -1,6 +1,8 @@
 # Texti
 Make both REST and GraphQL API's in a minute without coding.
 
+![](./assets/texti-demo.mp4)
+
 ## Prerequisites
 
 Ensure you have the following installed on your local machine:
